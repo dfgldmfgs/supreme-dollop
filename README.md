@@ -12,3 +12,8 @@ Run the script:
 ```bash
 python main.py
 ```
+
+## GitHub Actions
+This repository includes a GitHub Action workflow defined in `.github/workflows/run_script.yml`.
+It runs automatically on every `push` to the `main` branch.
+You can also trigger it manually from the **Actions** tab in your GitHub repository.
